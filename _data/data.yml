@@ -1,0 +1,356 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output.
+#
+
+sidebar:
+    position: right # position of the sidebar : left or right
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: False # set to False if you want education in main section instead of in sidebar
+
+    # Profile information
+    name: Luke Dobson
+    tagline: IT 2nd Line Support
+    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+    # Sidebar links
+    email: dobson990@gmail.com
+    phone: 07950989065
+    timezone: 
+    citizenship:
+    website: cybersh4d0w.github.io/online-cv/ #do not add http://
+    linkedin: luke-dobson-191b94128
+    xing: 
+    github: CyberSh4d0w
+    telegram: # add your nickname without '@' sign
+    gitlab:
+    bitbucket:
+    twitter: 
+    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    codewars:
+    goodreads: # Number-Username, e.g. 123456-alandoe
+    pdf: http://www.africau.edu/images/default/sample.pdf
+    
+    interests:
+      title: References
+      info:
+        - item: Dave Askham
+        - item: Head of IT Operations
+        - item: SSB Law
+        - item: 'Phone: 07721324821'
+        - item: '_______________________'
+        - item: Duncan Ridyard
+        - item: Senior System Administrator
+        - item: SSB Law
+        - item: 'Phone: 07711116974'
+        - item: '_______________________'
+        - item: Peter Quinn
+        - item: Head of IT Operations
+        - item: One Call Group
+        - item: 'Phone: 01302 552319'
+        - item: 'Email: peter.quinn@onecallgroup.co.uk'
+        - item: '_______________________'
+        - item: Richard Carr
+        - item: Managing Director
+        - item: Amefa GB
+        - item: 'Phone: 07714231629'
+        - item: 'Email: richard.carr@amefa.co.uk'
+        - item: '_______________________'
+        - item: Lieutenant Colonel J C Barber 
+        - item: R SIGNALS Commanding Officer 
+        - item: Phone MOD enquiry centre on 01412243600. 
+        - item: I have a copy of my testimonial to show at my interview. 
+        - item: '_______________________'
+
+career-profile:
+    title: Career Profile
+    summary: |
+      As a dedicated and experienced IT professional, I bring a unique blend ofd skills and attributes shaped by over 6 years of service in the British Army and a progressive career in IT, spanning first-line and second-line support roles. I am conscientious, adaptable, and friendly, committed to teamwork and individual excellence. My ability to work effectively both independently and as part of a team is complemented by my excellent communication skills.
+
+      My career in IT support has been marked by a continuous pursuit of professional development, through ongoing training and reflective practice. I pride myself on punctuality and reliability, as evidenced by my exceptional attendance and sickness record. My time in the British Army has instilled a sense of discipline and a capacity to thrive in challenging environments. This background has been instrumental in developing my ability to meet tight deadlines, work to high standards, and resolve problems with calm efficiency.
+
+      In my roles in first-line and second-line IT support, I have honed my problem-solving skills and technical knowledge. My experience ranges from providing immediate, user-facing support in a first-line capacity to tackling more complex technical challenges in a second-line role. I have a proven track record of collaborating with teams to implement effective solutions, manage critical IT infrastructure, and ensure seamless IT operations. My approach to IT support is always user-centric, aiming to provide the highest level of service and support to all stakeholders.
+
+      My career journey has been one of continual learning and adaptation, always seeking to align my skills with the evolving demands of the IT industry. I am eager to bring my blend of military discipline, technical expertise, and team-oriented mindset to a challenging and dynamic new role.
+education:
+    title: Education
+    info:
+      - degree: Emergancy First Aid at Work
+        university: SSB Law
+        time: May 2022
+        details: |
+          Emergancy First Aid at Work - In Accordence with the Health and Saftey (First Aid) Regulations 1981
+      - degree: One Call Group
+        university:
+        time: 2018 - 2021
+        details: |
+          - GDPR Update  
+          - Microsoft Windows Server 2016
+          - Active Directory and Group Policy Management
+          - 3CX phone system Training
+      - degree: Amefa UK
+        university:
+        time: March 2017
+        details: |
+          - Microsoft Excel Introduction – AJ Training
+      - degree: British Army
+        university:
+        time: March 2010 – September 2016
+        details: |
+          FAA Level 2 award in Cardiopulmonary Resuscitation and automated external defibrillation - May 2016
+
+          FAA Level 3 award in First Aid at Work – May 2016
+
+          Advanced Level 3 Apprenticeship in IT Software web and Telecoms Professionals – May 2016
+
+          BTEC Level 3 Diploma in Professional Competence for IT and Telecoms Professionals – Sept 2015
+          - Health and Safety in the Engineering Workplace
+          - Networked systems security
+          - Manage Bowman equipment
+          - Operate Bowman equipment
+
+          BTEC Level 3 Certificate in ICT systems and principles – June 2013
+          - Health and Safety in ICT
+          - Develop own effectiveness and professionalism
+          - Technical fault diagnosis
+          - Working with ICT hardware and equipment
+          - Security of ICT systems/ Testing ICT systems
+          - System management
+          - System operation
+
+          Air 319 Course Underwater Escape –2012
+
+          ECDL in IT User Skills – 2011
+
+          ECDL in Word Processing Software – 2011
+
+          Royal Corps of Signals – Signalman – April 2011- September 2016
+
+          Basic skills Level 3 Numeracy and Literacy Level 3 – August 2010
+      - degree: North Nott’s College 
+        university:
+        time: '2010'
+        details: |
+          - Key Skills Level 2 Maths and English
+      - degree: Portland Secondary School                                                          
+        university:
+        time: 'September 2004-June 2010'
+        details: |
+          - Maths / English GCSE – Grade D – 2010
+          - Design and Technology GCSE – 2010
+          - Science GCSE – 2010
+          - OCR ICT – 2010
+
+experiences:
+    title: Professional Experience
+    info:
+      - role: IT 2nd Line Support
+        time: November 2021 – Present
+        company: SSB Law
+        details: |
+          As a IT 2nd Line Support Specialist at SSB Law, I am distinguished for my advanced expertise in addressing and resolving complex IT issues.
+          My role is critical in maintaining robust IT infrastructure and providing comprehensive user support across various technological platforms. 
+          I demonstrate a high level of proficiency in managing a range of technical challenges, ensuring effective and efficient IT operations.   
+            - 1st/2nd line ICT support for users of equipment such as Desktops/Laptops/Phones (For various companies across the business. This includes telephone advice, face-to-face help, and remote IT support.
+          
+            - Managed critical incidents, ensuring timely resolution and minimal business impact.
+
+           - Administered and optimized VMware environments, enhancing virtualization efficiency and reducing hardware costs.
+            
+           - Managed Cisco network switches, implementing VLANs and optimizing network traffic for organizational needs.
+
+           - Maintained and upgraded Dell Storage Area Network (SAN) infrastructure, ensuring high availability and performance.
+
+           - Successfully resolved escalated technical issues, including complex VMware and network problems.
+
+           - Oversaw Remote Desktop Services (RDS) deployment and management, improving remote workforce support and productivity.
+
+           - Managed Veeam backup solutions, ensuring reliable data recovery and business continuity.
+
+           - Collaborated with the development/projects team, providing creative PowerShell scripting solutions to automate tasks and streamline processes.
+
+           - Designed and implemented Group Policy Objects (GPOs) for network security and configuration management, enhancing system compliance and user environment control.
+
+           - Troubleshoot complex issues related to Office 365, including SharePoint online, User access problems, Exchange Online, and Defender for Endpoint, ensuring timely and effective resolution.
+
+           - Implemented and maintained Microsoft Defender for Endpoint, providing advanced threat protection, security management, and ensuring the integrity and safety of end-user devices.
+  
+      - role: ICT Technician
+        time: April 2018 – November 2021
+        company: One Call Group
+        details: |
+          In my role as an ICT Technician at One Call Group, I provided extensive 1st and 2nd line support for a range of IT equipment, excelling in both remote and face-to-face troubleshooting. 
+          My expertise included deploying and maintaining laptops and desktops using Windows Deployment Services, managing Sophos Anti-Virus and Web Filter Systems, and overseeing Cisco and 3cx Phone systems. 
+          I adeptly utilized VMware for server management and played a critical role in enabling remote work during the lockdown. 
+          Additionally, I contributed significantly to the company's recovery from a major cyberattack and consistently met service level agreements while providing support to over 600 staff members using OTRS and Jira Service Desk.
+            - 1st/2nd line ICT support for users of equipment such as Desktops/Laptops/Tablets/Phones (For various companies across the group. This includes telephone advice, face to face help and remote IT support.
+            
+            - Built, maintained, and deployed Laptops and Desktops to a high standard and imaged them using WDS (Windows Deployment Services).
+              
+            - Use of Sophos Anti-Virus and Web Filter Systems. 
+
+            - Managing and maintaining Cisco and 3cx Phone systems to a high standard and creation of phone scripts with customer facing queues to enable clients to reach the department they need with ease. 
+
+            - Use of VMware to manage and build various servers and maintain and fault find on those systems. 
+              During the lockdown period, I assisted in the rapid deployment of various equipment to our staff to enable the company to carry on working from home and providing excellent customer service. Provided remote IT support and problem-solving support at this time.
+
+            - Use of Veeam Backup and Replication to recover files and whole servers if necessary, in the event of servers going down. 
+
+            - During my period in this role, the company underwent a significant cyberattack (ransomware). 
+              I was part of the team that collaborated with the police and cybersecurity experts to swiftly restore the company's systems. 
+              We dedicated numerous overtime hours, including night shifts, to ensure minimal disruption. For our efforts, the team received personal thanks from the Directors along with a bonus.
+
+            - Using and improving all the skills I have listed at my time at Amefa.
+
+            - Use of the OTRS and Jira Service Desk’s to meet SLA’s and provide helpdesk support to over 600 members of staff across the group. 
+      - role: ICT Technician 
+        time: April 2017 – April 2018
+        company: Amefa UK
+        details: |
+          As an ICT Technician at Amefa UK, I specialized in 1st and 2nd line IT support, managing tasks such as maintaining desktops/laptops and deploying POS systems in various international locations. 
+          My expertise extended to server management with a focus on Active Directory Services and utilizing backup software like Microsoft Azure and Veeam Backup for disaster recovery. 
+          I adeptly handled a helpdesk system, maintained asset lists, and used the Office 365 admin portal. 
+          My role also involved leading significant projects, including a CRM implementation and introducing a new warehouse scanner system, demonstrating my project management and technical skills. 
+            - 1st/2nd line IT support for users of equipment such as Desktops/Laptops/Tablets. (For Various Locations including China, Hong Kong, Netherlands, Germany and the UK)
+            
+            - Built, maintained, deployed, and repaired Laptops/Desktops to a high standard in line with company requirements.
+
+            - Investigated and problem solved technical issues.
+
+            - Deployed and setup POS Systems and PDQ devices to retail outlets.
+
+            - Experience on Server 2003/2008/2012 – Active Directory Services, Active Directory Group Policy Objects (GPO), Group Policy Management Console (GPMC), Task Scheduler.
+
+            - Used various types of backup software such as Microsoft Azure, Microsoft Windows Backup, Veeam Backup and Replication (one of my daily duties was to ensure that all sites had successful backups logged in case disaster recovery was needed).
+            
+            - Used a helpdesk system and prioritized and managed work in a timely manner.   
+
+            - Maintaining Asset lists of all the IT equipment/software licenses that the company owns and purchases. 
+           
+           - Use of the Office 365 admin portal to manage user licenses and basic use of the online exchange. 
+
+           - Communicated and escalated effectively and professionally with 3rd party company’s when required.
+
+           - Use of Microsoft Office Products Such as Office 365,2010,2016 and Skype for Business. 
+
+           - Use of Kaspersky Endpoint Security 10 to monitor and protect servers and other devices that the company uses. 
+
+           - Involved in major projects in the business such as a CRM project and was a project lead on introducing a new scanner system to the warehouse this helped warehouse staff manage and pick stock more accurately and efficiently. 
+
+           - Due to financial difficulties of the company I was made redundant from the post. I received notification of this on 29/03/2018.
+      - role: Warehouse Operative
+        time: June 2016 – June 2017
+        company: Amefa UK
+        details: |
+          As a Warehouse Operative at Amefa UK, I specialized in efficiently picking and packing products, ensuring prompt delivery to customers. 
+          My role involved collaborative teamwork, problem-solving technical issues, and strict adherence to health and safety standards. Skilled in using various warehouse equipment, I consistently maintained meticulous records. 
+          My strong attention to detail and thorough understanding of warehouse safety protocols highlighted my commitment to operational excellence.
+            - Picked and Packed various products to send to customers.
+            
+            - Worked as an effective member of a team. 
+
+            - Investigated and problem solved technical issues.
+
+            - Use of different equipment in line with Health and Safety procedures. 
+
+            - Keeping paperwork up to date. 
+
+            - Methodical by nature and a keen eye for detail.
+
+            - A clear understanding of the health and safety procedures of the warehouse. 
+      - role: Telecommunications Engineer
+        time: October 2011 – September 2016
+        company: British Army
+        details: |
+          In my role as a Telecommunications Engineer with the British Army, I specialized in installing, configuring, and maintaining critical communication systems. 
+          My expertise included troubleshooting technical issues and conducting regular equipment maintenance to ensure optimal functionality. 
+          I led a team, providing guidance and effectively managing tasks, and was responsible for liaising with external agencies for equipment updates and repairs. 
+          My role also involved strict adherence to security protocols and efficient handling of network updates, demonstrating my ability to work under stringent guidelines while maintaining high standards of communication security and efficiency.
+            - Installed, configured, and initialized telecommunications equipment into vehicles and buildings where required.
+            
+            - Extracted information from network plans in order to administer user profile information.
+
+            - Investigated and problem solved technical issues.
+
+            - Conducted regular maintenance on equipment ensuring it was serviceable and fully functional.
+
+            - Responsible for my team members and appropriately delegating tasks.
+
+            - Provide advice and guidance to junior members of my department, and external customers where required. Liaised with external agencies regarding repair and updates. 
+
+            - Carry out fault diagnosis on equipment using external tools and integrated functional testing. Followed escalation processes in place to rectify faults swiftly and efficiently. Ensure service disruption is kept to a minimum.
+
+            - Distribute network updates to users through a variety of communication mediums.
+
+            - Adhere to strict guidelines and regulations when implementing and maintaining security procedures, hardware and software.
+
+            - Provided customers with first line advice on fault diagnostics, software or scheduled system updates.
+      - role: Telecommunications Engineer Trainee
+        time: March 2010 - October 2011
+        company: British Army
+        details: |
+           As a Telecommunications Engineer Trainee in the British Army, I engaged in rigorous technical training at the Royal School of Signals, focusing on a blend of soldiering and specialized telecommunications skills. 
+           A key component of my training was completing my Cat B driver training, which qualified me to proficiently operate cars and Land Rovers both on and off-road. 
+           Additionally, I attained Cat C/C+E driver training, further broadening my skill set to include driving Large Goods Vehicles (LGVs), with or without trailers, in various terrains. 
+           This extensive driver training, coupled with an Advanced Apprenticeship Level 3 Diploma in Telecommunication Systems and Technologies, provided me with a strong foundation in military telecommunications, preparing me for advanced responsibilities in the field.
+            - I initially undertook basic training of soldiering skills and then went on to complete intense trade specific technical training at the Royal School of Signals at Blandford Forum.
+            
+            - I later commenced and successfully completed my Advanced Apprenticeship Level 3 Diploma in Telecommunication Systems and Technologies.
+
+            - As part of my course I completed my Cat B driver training. This enabled me to drive cars and land rovers to a high standard on and off the road. I also attended a Cat C/ C+E training which allowed me to drive LGV with and without trailers on and off the road.
+projects:
+    title: Projects
+    intro: >
+      You can list your side projects in this
+      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    assignments:
+      - title: Defender for Endpoint
+        link: "#hook"
+        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+
+      - title: Robust RDS Solution
+        link: "#"
+        tagline: "A responsive website template designed to help web developers/designers market their services."
+
+      - title: 
+        link: "#"
+        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+
+      - title: Atom
+        link: "#"
+        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+
+      - title: Delta
+        link: "#"
+        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+
+skills:
+    title: Skills
+
+    toolset:
+      - name: VMware Technology
+        level: 100%
+
+      - name: Powershell
+        level: 100%
+
+      - name: Veeam Backup Management
+        level: 100%
+
+      - name: Remote Desktop Services (RDS)
+        level: 100%
+
+      - name: Dell SAN Maintenance
+        level: 100%
+
+      - name: Problem Solving and Innovation
+        level: 100%
+      
+      - name: Team Collaboration and Support
+        level: 100%
+      
+      - name: Helpdesk Management
+        level: 100%
+
+footer: >
+    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
